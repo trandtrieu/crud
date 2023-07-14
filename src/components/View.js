@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Form } from "react-bootstrap";
-import Employees from "../shared/Employees";
+// import Employees from "../shared/Employees";
 
 function View() {
   const [name, setName] = useState("");
